@@ -1,7 +1,7 @@
 # BeerAdviser
-Chapter 2 - Exercise Files
+### Chapter 2 - Exercise Files
 
-#BULLET POINTS
+#### BULLET POINTS
 
 * The Button element is used to add a button
 * The Spinner element is used to add a spinner. A spinner is a drop-down list of values.
